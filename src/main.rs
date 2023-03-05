@@ -1,5 +1,6 @@
 // Linked list in rust, as recommended by exo
 // no tail reference stored in the LL struct as Box is a unique smart ptr
+// todo: change insert to push(), add pop(), remove(), insert() based on indices, concatenate()?
 
 use std::fmt::Display;
 
